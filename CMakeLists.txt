@@ -6,3 +6,4 @@ find_package(Geode REQUIRED)
 add_geode_mod(EclipseQQQ
     src/main.cpp
 )
+
