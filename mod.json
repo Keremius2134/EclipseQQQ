@@ -4,7 +4,13 @@
   "name": "EclipseQQQ Ultimate",
   "version": "v1.0.0",
   "developer": "Kerem",
-  "description": "EclipseQQQ Ultimate Mod",
+  "description": "EclipseQQQ 180+ Features Ultimate Hack Menu",
   "dependencies": [],
-  "settings": {}
+  "settings": {
+    "noclip-enabled": {
+      "name": "Noclip",
+      "type": "bool",
+      "default": false
+    }
+  }
 }
